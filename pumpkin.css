@@ -75,3 +75,9 @@ body {
 	}
 }
 
+@keyframes darken {
+  50% {
+    background: #292929;
+  }
+}
+
