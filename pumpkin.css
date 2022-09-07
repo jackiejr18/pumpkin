@@ -46,3 +46,13 @@ body {
 	 -7em 22em #574946, -6em 22em #574946, -5em 22em #574946, -4em 22em #574946, -3em 22em #574946, -2em 22em #574946, -1em 22em #574946, 0 22em #574946, 1em 22em #574946, 2em 22em #574946, 3em 22em #574946, 4em 22em #574946, 5em 22em #574946, 6em 22em #574946, 7em 22em #574946;
 }
 
+@keyframes light {
+	50% {
+		color: #EA5D41;
+		box-shadow: 
+		1em 1em #f97c3c, 2em 1em #f97c3c,
+		0 2em #f97c3c, 3em 2em,
+		0 3em #f97c3c
+	}
+}
+
