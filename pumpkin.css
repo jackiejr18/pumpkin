@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #6e6e6e;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: end;
+	animation: darken 5s infinite;
+}
+
+.pumpkin {
+	position: relative;
+	margin-top: 35vmin;
+	height: 1em;
+	width: 1em;
+	font: 1.5vmin;
+	background: transparent;
+	color: #FA6A45;
+	animation: light 5s infinite;
+	box-shadow:  
+		1em 1em #FEA642, 2em 1em #F88C44,
+		0 2em #FEA642, 3em 2em,
+		0 3em #F88C44,
+		0 4em #F88C44,
+	 -3em 5em #F88C44, -2em 5em #F88C44, -1em 5em #FEA642, 0 5em #F88C44, 1em 5em #FEA642, 2em 5em #F88C44, 3em 5em #F88C44,
+	 -5em 6em #F88C44, -4em 6em #F88C44, -3em 6em #FEA642, -2em 6em #FEA642, -1em 6em #FEA642, 0 6em #FEA642, 1em 6em #FEA642, 2em 6em #FEA642, 3em 6em #FEA642, 4em 6em #F88C44, 5em 6em #F88C44,
+	 -7em 7em, -6em 7em #F88C44, -5em 7em #FEA642, -4em 7em #FEA642, -3em 7em #F88C44, -2em 7em #F88C44, -1em 7em #FEA642, 0 7em #FEA642, 1em 7em #FEA642, 2em 7em #F88C44, 3em 7em #F88C44, 4em 7em #FEA642, 5em 7em #FEA642, 6em 7em #F88C44, 7em 7em,
+	 -8em 8em, -7em 8em #F88C44, -6em 8em #FEA642, -5em 8em #F88C44, -4em 8em #F88C44, -3em 8em #F88C44, -2em 8em #F88C44, -1em 8em #F88C44, 0 8em #FEA642, 1em 8em #F88C44, 2em 8em #F88C44, 3em 8em #F88C44, 4em 8em #F88C44, 5em 8em #F88C44, 6em 8em #FEA642, 7em 8em #F88C44, 8em 8em
+
+}
